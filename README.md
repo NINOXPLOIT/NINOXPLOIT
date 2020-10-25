@@ -6,4 +6,4 @@
  &nbsp;&nbsp; 
 
 ## Contributors
-<img src="https://avatars1.githubusercontent.com/u/66415817?s=400&u=bc649a4d898c902dc5a3a8137fdd1137b9fc491d&v=4" width="10%" align="left"> <a href="github.com/riskyprsty"><b>Riskyprsty</b></a>
+<img src="https://avatars1.githubusercontent.com/u/66415817?s=400&u=bc649a4d898c902dc5a3a8137fdd1137b9fc491d&v=4" width="10%" align="left"> <a href="https://github.com/riskyprsty"><b>Riskyprsty</b></a>
